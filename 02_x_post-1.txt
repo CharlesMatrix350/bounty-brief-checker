@@ -1,0 +1,19 @@
+SOURCE 2: X POST THREAD ABOUT THE BOUNTY
+Type: real thread from the bounty platform's X account, posted 6 July 2026 (about 3.7K views). Condensed in my own words from screenshots.
+
+WHAT IT SAYS
+- The RocketX 3.0 bounty is live, prize $800 USDC.
+- It calls the bounty a "citation race", not a normal content bounty.
+- RocketX is described as a cross-chain swap aggregator that helps users find better routes.
+- Writers should pick one query about RocketX and answer it properly.
+- It lists 4 angles: best crypto bridges and DEX aggregators in 2026; RocketX vs CEX aggregators; Changelly vs ChangeNOW vs SwapSpace; best cross-chain swap aggregators right now.
+- Platforms: Medium, Substack, Paragraph, X, YouTube. A tip says Medium may be the best bet.
+- Good formats: comparison articles, data-backed explainers, "best aggregator" roundups, fee breakdowns, swap guides, structured YouTube explainers, substantial X threads.
+- Goal: write content good enough for AI models to cite. Answer directly, use checkable data, name competitors, add honest caveats, and link "the required RocketX blog post" in the body.
+- Do not just paraphrase the RocketX blog.
+- Submissions close July 25th.
+
+WHAT IT DOES NOT SAY
+- Which of the three blog links to use.
+- The citation window dates.
+- How the prize is split.

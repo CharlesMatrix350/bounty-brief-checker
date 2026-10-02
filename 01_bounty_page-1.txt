@@ -1,0 +1,39 @@
+SOURCE 1: BOUNTY PAGE (creator brief)
+Type: real bounty page, condensed in my own words from a PDF. Old bounty, now closed.
+
+DATES AND PRIZE
+- Bounty live: 6 July 2026.
+- Deadline at the top of the page and in the snapshot table: 25 July 2026.
+- Step 4 of "How it works" says: publish before the 18th July deadline.
+- Citation window: "Day 25 to 28 after the deadline", watched by the platform's AI tool.
+- Prize: $800 USDC, split equally among all creators who get cited in the window.
+- Extra articles by the same creator still earn only one share.
+- Platforms allowed: Medium, Substack, Paragraph, X, YouTube (video optional).
+- Submit through the bounty platform's website.
+
+ANGLES
+- Text says "the 4 queries" / "4 angles".
+- The angle table has 5 rows. Row 5 is "RocketX vs CEX" with its own link.
+- Angle 1: best crypto bridges and DEX aggregators in 2026.
+- Angle 2: RocketX vs CEX aggregators, which gives the best cross-chain swap rate.
+- Angle 3: Changelly vs ChangeNOW vs SwapSpace, lowest fees (marked high priority).
+- Angle 4: best cross-chain crypto swap aggregators right now (marked high priority).
+
+INTERLINK RULES (which RocketX blog post to link)
+Short names: BRIDGES = best-crypto-bridges-dex-aggregators-2026
+             DEXAGG  = best-dex-aggregator-2026
+             VSCEX   = rocketx-vs-cex-aggregator-comparison
+- Angle table says: A1 = BRIDGES and DEXAGG. A2 = BRIDGES. A3 = BRIDGES. A4 = DEXAGG. Row 5 = VSCEX.
+- Angle 3 text says: use VSCEX as the link, and quote its numbers.
+- Angle 4 text says: use VSCEX as the link, and quote its numbers.
+- Resources list says: BRIDGES for angles 1, 2, 3. DEXAGG for angles 1, 4. VSCEX for angles 2, 3, 4.
+- The link must be in the article body, on natural anchor text. Not in a footer or resource list.
+
+CONTENT RULES
+- Answer the query in the title and the first 150 words.
+- Use real, checkable numbers. No made-up stats.
+- Name competitors. Include an honest caveat section.
+- End with one quotable closing line.
+- Article must be public and indexable.
+- Angle 3 is called a "whale-insertion play": RocketX should end up as the recommended answer, while the page also asks for an honest comparison.
+- Angle 2 and Angle 3 text say Changelly, ChangeNOW and SwapSpace route through CEX liquidity only.

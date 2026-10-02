@@ -1,0 +1,27 @@
+SOURCE 3: ROCKETX BLOG POST (VSCEX link)
+Title: "RocketX vs CEX: Is a Swap Aggregator Actually Better Than a Centralized Exchange?"
+Type: real blog post by RocketX, condensed in my own words from screenshots. Numbers copied exactly.
+
+LIVE TEST
+- Test date: 29 June 2026. Same trade on five platforms: 0.5 BTC swapped to ETH. No promo codes or discounts.
+- Results (ETH received): RocketX 18.51. SwapSpace 18.42. ChangeNOW 18.35. Swapzone 18.35. Changelly 18.16.
+- Gap between best and worst: 0.35 ETH, about $362. Settlement time about two minutes.
+- The post says Changelly, ChangeNOW, Swapzone and SwapSpace use their own chosen liquidity partners or their own reserves. It does not say they are CEX-only.
+
+CLAIMS ABOUT ROCKETX
+- Checks 500+ liquidity sources (DEXs, CEXs and other aggregators).
+- Supports 200+ chains. Non-custodial. No account and no KYC.
+- Has Privacy Swap and Private Send. Has a fixed-rate option.
+- Feature table row "Best price guarantee": CEX No, DEX No, RocketX Yes.
+- FAQ says quotes are snapshots, not guaranteed execution prices, and prices can move after a quote.
+- Slippage on a $500,000 trade is "Moderate" for RocketX.
+
+HONEST CAVEATS IN THE POST
+- CEXs are better for fiat on-ramps and 24/7 human support. RocketX support is email and docs.
+- Is RocketX always cheaper than Binance? No. High-volume Binance users with fee discounts can match or beat it on liquid pairs like BTC/USDT.
+- Aggregators can lose their edge from slow RPC, paused bridges, gas spikes, vanishing liquidity and slow settlement.
+
+OUTSIDE FACTS IT CITES
+- Bybit hack, 21 Feb 2025, about $1.5 billion (Trail of Bits analysis).
+- FTX collapse 2022: more than $3.1 billion owed to its 50 largest unsecured creditors.
+- A 2025 academic study on solver-based exchanges. The post says this study does not evaluate CEXs or hybrid CEX-DEX systems.
